@@ -1,0 +1,4 @@
+f3662b9 - Quang Nguyen, 6 minutes ago : refractor to new folder structure
+51adf67 - Quang Nguyen, 11 minutes ago : first memo
+80f5f60 - Quang Nguyen, 12 minutes ago : update sys
+ce4b2ff - Quang Nguyen, 6 hours ago : initialize project
